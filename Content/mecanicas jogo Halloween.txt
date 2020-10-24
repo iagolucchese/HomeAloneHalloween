@@ -1,0 +1,43 @@
+gameplay: cod zombies
+camera e estilo: garden warfare
+sistema armas: dead rising
+
+ -=- home alone: halloween -=-
+
+mecanicas: 
+
+- mecanicas de shooter (2 armas, faca, etc.)
+- começa com pistola
+- arma melee com desgaste?
+
+- zombies:
+	+ zombies por waves, cada wave vem mais zombies, mais vida
+	+ endless waves
+	+ spawnam fora da casa, tentam entrar pelas janelas e portas
+	+ zombies derrubam barricadas, 1hp por hit
+	+ zombies random drops (munição, bomba, etc.)
+
+- player tem 2hp, mas regenera
+
+- reconstruir barricadas
+	+ dá dinheiro
+	+ nao custa recurso
+	+ requer que tu fique na barricada segurando botao
+	
+- tem dinheiro:
+	- ganha acertando e matando zombies, com multiplicadores de bonus (melee, combo, hs, etc.)
+	- gasta:
+		+ armas nova (shop), comprar denovo recarrega a munição
+		+ areas novas (expandir o mapa)
+		+ perks/talentos
+		+ upgrade na arma
+
+- traps:
+	- rearmar como tu refaz as barricadas
+	
+	+ tar pit (slow)
+	+ marbles (knockdown)
+	+ 
+
+- weapon crafting:
+	+ juntando itens de casa diferentes (dead rising)
